@@ -20,7 +20,7 @@ Go to http://localhost:8080/ and be sure that app is running.
 1. Create 2 new applications in Firebase (test and development).
 2. Turn on Google Authentication in each project.
 3. Create a Realtime-Database with the following rules in each project:
-```json
+```javascript
 {
   "rules": {
     ".read": false,
