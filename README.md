@@ -9,8 +9,8 @@ This is a frontend development boilerplate project. It is based on:
 6. ...and a lot of configured settings, like @babel/polyfill, history, CSS normalization, extended ES6 features, etc.
 ## How to test and run app locally
 ```bash
-git clone git@github.com:fabasoad/react-boilerplate-app.git
-cd react-boilerplate-app
+git clone git@github.com:fabasoad/react-boilerplate-app-v2.git
+cd react-boilerplate-app-v2
 yarn install
 yarn test
 yarn run dev-server
