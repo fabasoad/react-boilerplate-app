@@ -7,6 +7,15 @@ This is a frontend development boilerplate project. It is based on:
 4. Google authentication
 5. SCSS styling
 6. ...and a lot of configured settings, like @babel/polyfill, history, CSS normalization, extended ES6 features, etc.
+## How to test and run app locally
+```bash
+git clone git@github.com:fabasoad/react-boilerplate-app.git
+cd react-boilerplate-app
+yarn install
+yarn test
+yarn run dev-server
+```
+Go to http://localhost:8080/ and be sure that app is running.
 ## How to connect to the Firebase
 1. Create 2 new applications in Firebase (test and development).
 2. Turn on Google Authentication in each project.
